@@ -1,1 +1,4 @@
+Django==4.2        # or your project version
+psycopg2-binary    # for PostgreSQL
+
 
